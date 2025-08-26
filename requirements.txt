@@ -1,0 +1,7 @@
+speechrecognition
+pyttsx3
+gTTS
+pygame
+wikipedia
+pyjokes
+pyautogui
